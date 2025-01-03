@@ -2,6 +2,8 @@
 
 Bake Mate AI is an intelligent, user-friendly virtual assistant designed to streamline bakery order management. It helps bakery owners efficiently handle customer orders, ensuring accuracy and satisfaction while maintaining a seamless and pleasant experience.
 
+Bake Mate uses the llama3 70B model for handling conversations and uses the model's impressive NLP to understand and reply to customers, it can handle multiple langauges such as Hindi, Japanese and many more!
+
 ## Features
 - **Friendly and Efficient Customer Interaction**: Bake Mate AI interacts with customers to gather order details and preferences without overwhelming them.
 - **Customizable Order Preferences**: Handles customizations like flavors, sizes, and delivery preferences.
