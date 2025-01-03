@@ -35,22 +35,5 @@ Bake Mate AI is an intelligent, user-friendly virtual assistant designed to stre
    python main.py
    ```
 
-## Contributing
-We welcome contributions! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes and push to your branch.
-4. Submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-For questions or feedback, please contact **Bhuvan Desai** at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Start managing bakery orders effortlessly with Bake Mate AI!
