@@ -9,7 +9,7 @@ Bake Mate AI is an intelligent, user-friendly virtual assistant designed to stre
 - **Multi-Platform Integration**: Can be integrated into websites, mobile apps, or chat platforms for maximum accessibility.
 
 ## Try It Out
-You can test Bake Mate AI here: [Bake Mate AI Demo](https://bake-mate-ai-xnex.vercel.app/)
+You can test Bake Mate AI in your local machine by cloning the repo. make sure to visit console.groq.com to get your own api key for free for using Bake-Mate
 
 **Note**: The current version uses local storage for saving orders, meaning your order data will not persist across sessions or devices. To fully test its capabilities with a database, clone the repository to your local machine and run the app with your preferred cloud-based database setup.
 
