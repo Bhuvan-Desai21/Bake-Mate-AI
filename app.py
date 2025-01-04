@@ -15,7 +15,7 @@ CREATE TABLE IF NOT EXISTS Bakery_Orders
 """)
 
 # Groq setup
-api_key = "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" # Replace with your actual API key
+api_key = "" # Replace with your actual API key
 os.environ["GROQ_API_KEY"] = api_key
 client = Groq(api_key=os.environ["GROQ_API_KEY"])
 
