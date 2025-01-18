@@ -13,7 +13,6 @@ You can test Bake Mate AI using the link
 OR
 You can test Bake Mate AI in your local machine by cloning the repo. make sure to visit console.groq.com to get your own api key for free for using Bake-Mate
 
-**Note**: The current version uses local storage for saving orders, meaning your order data will not persist across sessions or devices. To fully test its capabilities with a database, clone the repository to your local machine and run the app with your preferred cloud-based database setup.
 
 ## Advanced Features
 - **Powered by Llama3 70B Model**: Bake Mate AI utilizes the Llama3 70B model for advanced Natural Language Processing (NLP), enabling impressive conversational capabilities.
