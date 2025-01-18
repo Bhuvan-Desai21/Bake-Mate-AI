@@ -1,4 +1,4 @@
-# Bake Mate AI - (Click me!)[https://bake-mate-working.vercel.app/]
+# Bake Mate AI - [Click me!](https://bake-mate-working.vercel.app/)
 
 Bake Mate AI is an intelligent, user-friendly virtual assistant designed to streamline bakery order management. It helps bakery owners efficiently handle customer orders, ensuring accuracy and satisfaction while maintaining a seamless and pleasant experience.
 
@@ -8,7 +8,7 @@ Bake Mate AI is an intelligent, user-friendly virtual assistant designed to stre
 - **Confirmation and Error Prevention**: Validates all order details to minimize errors before finalizing the order.
 - **Multi-Platform Integration**: Can be integrated into websites, mobile apps, or chat platforms for maximum accessibility.
 
-## Try It Out (Click me!)[https://bake-mate-working.vercel.app/]
+## Try It Out [Click me!](https://bake-mate-working.vercel.app/)
 You can test Bake Mate AI using the link
 OR
 You can test Bake Mate AI in your local machine by cloning the repo. make sure to visit console.groq.com to get your own api key for free for using Bake-Mate
