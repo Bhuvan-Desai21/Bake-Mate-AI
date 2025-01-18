@@ -44,7 +44,7 @@ You can test Bake Mate AI in your local machine by cloning the repo. make sure t
    ```
 3. Run the application:
    ```bash
-   python main.py
+   python app.py
    ```
 
 
